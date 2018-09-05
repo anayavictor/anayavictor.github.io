@@ -144,7 +144,7 @@ html {
 }
 body { font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased; font-smoothing: antialiased; font-size: 14px; color: #6f6f6f; font-weight: 400; line-height: 24px; overflow-x: hidden; }
 
-img { max-width: 100%; height: auto; }
+img { max-width: 100%; height: auto; border-radius: 20px; }
 
 a:focus,
 a:active,
