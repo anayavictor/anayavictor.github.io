@@ -1,13 +1,4 @@
-/*
-===========================================================================
- EXCLUSIVE ON themeforest.net
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Template Name   : Maria - Responsive Personal Portfolio Template
- Author          : mital_04
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Copyright (c) 2018 - Maria - Responsive Personal Portfolio Template
-===========================================================================
-*/
+
 
 (function($){
 	"use strict";

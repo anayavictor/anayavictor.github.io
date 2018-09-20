@@ -1,49 +1,4 @@
-/*========================================================================
-EXCLUSIVE ON themeforest.net
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Template Name   : Maria
-Author          : mital_04
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Copyright (c) 2018 - Maria
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Name: common.css
-Version: 1.0
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Table of contents
 
-  01. Google font
-  02. Reset
-  03. Font Family
-  04. Heading
-  05. Forms
-  06. Font Size
-  07. Line Height
-  08. Font Weight
-  09. Text Style
-  10. Colors
-  11. Background
-  12. Section
-  13. Box Shadow
-  14. Margins
-  15. Padding
-  16. Width
-  17. Height
-  18. Icon Size
-  19. Border Radius
-  20. Background Properties
-  21. Border
-  22. Display and overflow
-  23. Button
-  24. Social Icons
-  25. Slanty Section
-  26. Cav Section
-
-========================================================================*/
-
-
-/*===================================
-  01. Google font
-====================================== */
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
 
