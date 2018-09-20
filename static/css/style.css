@@ -876,8 +876,9 @@
 .portfolio-col .hover {
   position: absolute;
   width: 100%;
-  bottom: -120px;
+  bottom: -330px;
   left: 0;
+  border-radius: 10px;
   padding: 15px;
   background: #fff;
   -webkit-transition: ease all 0.5s;
